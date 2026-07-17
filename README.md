@@ -1,3 +1,4 @@
+HEAD
 # Teldrive
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/tgdrive/teldrive)
 
@@ -47,3 +48,7 @@ If you like this project small contribution would be appreciated [Paypal](https:
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=tgdrive/teldrive&type=Date" />
  </picture>
 </a>
+
+# Teldrive-Windows-Setup-Guide
+A complete, beginner-friendly guide to setting up Teldrive on Windows. Bypasses local PostgreSQL using Supabase and includes background automation and VLC streaming fixes.
+f606a60ed61cc668b1de58086d83e44912c917a3
