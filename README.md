@@ -3,7 +3,7 @@
 *Turn your Telegram account into an unlimited, streaming cloud drive with zero complex local database setup.*
 
 [![View Live Website](https://img.shields.io/badge/View-Live_Website-blue?style=for-the-badge)](https://aryangadale.github.io/Teldrive-Windows-Setup-Guide/)
-[![Download HTML Guide](https://img.shields.io/badge/Download-Offline_HTML_Guide-success?style=for-the-badge)](https://raw.githubusercontent.com/AryanGadale/Teldrive-Windows-Setup-Guide/main/index.html)
+[![Download HTML Guide](https://img.shields.io/badge/Download-Offline_HTML_Guide-success?style=for-the-badge)](https://aryangadale.github.io/Teldrive-Windows-Setup-Guide/index.html)
 
 *(Note: To download the offline HTML guide, right-click the green Download button above and select "Save link as...")*
 
